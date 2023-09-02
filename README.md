@@ -3,3 +3,4 @@
 
 # 목차
 * [ACL을 사용한 예제](./using_acl/)
+* [bucket policy를 사용한 예제](./using_bucket_policy/)
